@@ -1,7 +1,7 @@
 <img width="2125" height="473" alt="github-header-banner" src="https://github.com/user-attachments/assets/bd55f65a-5fc4-43ea-a27a-ffb865668b7f" />
 <br/> <br/>
 
-Actualmente curso el **segundo año del Grado Superior de Desarrollo de Aplicaciones Web (DAW)** para convertirme en diseñadora web ya que me interesa tanto el lado **frontend** como **backend** y disfruto aprendiendo nuevas tecnologías y buenas prácticas de programación así como del aprendizaje en general.
+Graduada del **Grado Superior de Desarrollo de Aplicaciones Web (DAW)** para convertirme en diseñadora web ya que me interesa tanto el lado **frontend** como **backend** y disfruto aprendiendo nuevas tecnologías y buenas prácticas de programación así como del aprendizaje en general.
 
 Este perfil reúne proyectos académicos y personales en los que aplico lo que voy aprendiendo, siempre con la idea de mejorar, experimentar y crecer como desarrolladora.
 
@@ -33,4 +33,4 @@ Este perfil reúne proyectos académicos y personales en los que aplico lo que v
 
 Seguir formándome como desarrolladora web, afianzar mis conocimientos y crear proyectos cada vez más completos y profesionales.
 
-¡Gracias por pasarte por mi perfi!
+¡Gracias por pasarte por mi perfil!
